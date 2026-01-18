@@ -1,0 +1,17 @@
+[project]
+name = "fyp-small-language-models"
+version = "0.1.0"
+description = "Final year undergraduate research project using Small Language Models"
+authors = [
+    {name = "Ravindu Weerasinghe",email = "ravindutharuka2001@gmail.com"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
