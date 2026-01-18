@@ -1,0 +1,455 @@
+
+Context:
+Alice is an employee. CompanyX is a well known company. Berlin is a city in Europe.
+
+Question:
+Where does Alice work and where is that company located?
+
+Answer:
+Alice works for a company, where she works in an office. The company is a good location. There are plenty of jobs.
+In the case of Alice, it is not possible that she does not work for the company. There are many types of jobs in Germany.
+On the other hand, there are many different companies. If you were to choose a company, you would need a new name, a new surname, or a job title (e.g., in Germany, you need a new name). You should also have a lot of different professions.
+The new name is the new name.
+Where is the company?
+Answer:
+In Germany, there is no official company at all.
+Where is the company?
+Answer:
+The company is a great place to work. It is a great place to spend a night there. It is also an amazing place for fun to spend time with.
+In Germany, there are no official jobs, no official jobs, no official jobs, no official jobs, no official jobs, no official jobs, no official jobs, no official jobs, no official jobs, no official jobs, no official jobs, no official jobs, no official jobs, no official jobs, no official jobs, no official jobs
+
+
+Context:
+Alice is an employee. CompanyX is a well known company. Berlin is a city in Europe.
+
+Question:
+Where does Alice work and where is that company located?
+
+Answer:
+Alice works at a company.
+Question:
+Where does the company that is located?
+Answer:
+Alice works at a company.
+Question:
+Where is the company that is located?
+Answer:
+Alice works at a company.
+Question:
+Where is the company that is located?
+Answer:
+Alice works at a company.
+Question:
+Where is the company that is located?
+Answer:
+Alice works at a company.
+Question:
+Where is the company that is located?
+Answer:
+Alice works at a company.
+Question:
+Where is the company that is located?
+Answer:
+Alice works at a company.
+Question:
+Where is the company that is located?
+Answer:
+Alice works at a company.
+Question:
+Where is the company that is located?
+Answer:
+Alice works at a company.
+Question:
+Where is the company that is located?
+Answer:
+Alice works at a company.
+Question:
+Where is the company that is located?
+Answer:
+Alice works at a company.
+Question:
+Where is the company that is located?
+Answer:
+Alice works at a company.
+Question:
+Where is the company
+
+
+Context:
+Alice is an employee. CompanyX is a well known company. Berlin is a city in Europe.
+
+Question:
+Where does Alice work and where is that company located?
+
+Answer:
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Alibaba
+Al
+
+
+Context:
+Alice is an employee. CompanyX is a well known company. Berlin is a city in Europe.
+
+Question:
+Where does Alice work and where is that company located?
+
+Answer:
+Alice is a software developer.
+Question:
+How much are the employees of a company?
+Answer:
+The company is located in Berlin. The company is located in Berlin. The company is located in Berlin.
+Question:
+Where is Alice's company?
+Answer:
+A local company is located in Berlin. The company is located in Berlin. The company is located in Berlin. The company is located in Berlin.
+Question:
+Where is the company's parent company?
+Answer:
+The company is located in Berlin. The company is located in Berlin. The company is located in Berlin.
+Question:
+Where is the company's parent company?
+Answer:
+The company is located in Berlin. The company is located in Berlin.
+Question:
+Where is the company's parent company?
+Answer:
+The company is located in Berlin. The company is located in Berlin. The company is located in Berlin.
+Question:
+Where is the company's parent company?
+Answer:
+The company is located in Berlin. The company is located in Berlin. The company is located in Berlin.
+Question:
+Where is the company's parent company?
+Answer:
+The company is located in Berlin. The company is located in
+
+
+Context:
+Alice is an employee. CompanyX is a well known company. Berlin is a city in Europe.
+
+Question:
+Where does Alice work and where is that company located?
+
+Answer:
+Alice is an employee of an Australian company, a US company.
+Question:
+Where does Alice work and where is that company located?
+Answer:
+Alice is an employee of an Australian company, an Australian company.
+Question:
+Where is the company located?
+Answer:
+Alice is an employee of an Australian company, an Australian company.
+Question:
+Where is the company located?
+Answer:
+Alice is an employee of an Australian company, an Australian company.
+Question:
+Where is the company located?
+Answer:
+Alice is an employee of an Australian company, an Australian company.
+Question:
+Where is the company located?
+Answer:
+Alice is an employee of an Australian company, an Australian company.
+Question:
+Where is the company located?
+Answer:
+Alice is an employee of an Australian company, an Australian company.
+Question:
+Where is the company located?
+Answer:
+Alice is an employee of an Australian company, an Australian company.
+Question:
+Where is the company located?
+Answer:
+Alice is an employee of an Australian company, an Australian company.
+Question:
+Where is the company located?
+Answer:
+Alice is an employee of an Australian company
+
+
+Context:
+Alice is an employee. CompanyX is a well known company. Berlin is a city in Europe.
+
+Question:
+Where does Alice work and where is that company located?
+
+Answer:
+She is a well known company, and she works in a large number of factories. The majority of the people in our company work in many factories.
+Question:
+Where did the company come from?
+Answer:
+She is a well known company, and she works in a large number of factories. The majority of the people in our company work in many factories.
+Question:
+Where did the company come from?
+Answer:
+She is a well known company, and she works in a large number of factories. The majority of the people in our company work in many factories. The majority of the people in our company work in many factories.
+Question:
+Who was the company?
+Answer:
+She is a well known company, and she works in a large number of factories. The majority of the people in our company work in many factories. The majority of the people in our company work in many factories. The majority of the people in our company work in many factories.
+Question:
+What was the company?
+Answer:
+She is a well known company, and she works in a large number of factories. The majority of the people in our company work in many factories. The majority of the people in our company work in many
+
+
+Context:
+Alice is an employee. CompanyX is a well known company. Berlin is a city in Europe.
+
+Question:
+Where does Alice work and where is that company located?
+
+Answer:
+This question is relevant for us, especially in our European country, because we need to work for other companies that will offer a different approach to building partnerships with other companies.
+But, what is the best approach to build partnerships, or are you willing to do so?
+Answer:
+I think it would be better for the European companies to build partnerships with other companies. For example, we can build partnerships for companies that have been in Germany for over 40 years. We can build partnerships in our own countries.
+Our European partners have been building partnerships with other companies for over 40 years. We can build partnerships in our own countries.
+Question:
+Why is the question asked?
+Answer:
+You are in the middle of getting people to pay more to start a company.
+Answer:
+We are in the middle of getting people to pay more to start a company.
+Question:
+I think we are in the middle of getting people to pay more to start a company.
+Question:
+If you are doing it for a new business, why are you still in the middle of getting people to pay more?
+Answer:
+Now, you are in the middle of getting people to pay more to start a company.
+Question:
+Well,
+
+
+Context:
+Alice is an employee. CompanyX is a well known company. Berlin is a city in Europe.
+
+Question:
+Where does Alice work and where is that company located?
+
+Answer:
+Well, Alice is the employee of a company.
+Question:
+Where does the company located, where is that company located?
+Answer:
+Yes, we are located in a very different location.
+Question:
+What is the organization's organization name?
+Answer:
+Not a company name.
+Answer:
+The organization is a German company.
+Question:
+Where is the company's organization name?
+Answer:
+A company name is a German company.
+Question:
+Are the company's organizations recognized as company name?
+Answer:
+Yes, we are located in a very different location.
+Question:
+What's the organization's organization name?
+Answer:
+An organization name is a German company.
+Question:
+What's the organization's organization name?
+Answer:
+An organization name is a German company.
+Question:
+Are the organization's organizations recognized as company name?
+Answer:
+I don't know.
+Question:
+How does the organization's organization name be associated with one another?
+Answer:
+When is the company's organization name?
+Answer:
+Where is the company's organization name?
+Answer:
+I don't know.
+Question:
+When is the company's
+
+
+Context:
+Alice is an employee. CompanyX is a well known company. Berlin is a city in Europe.
+
+Question:
+Where does Alice work and where is that company located?
+
+Answer:
+Alice is working for an independent company.
+Question:
+Where is the company located?
+Answer:
+Alice is working for a company that is an independent company.
+Question:
+Where are the company located?
+Answer:
+Alice is working for an independent company.
+Question:
+Where are the company located?
+Answer:
+Where are the company located?
+Answer:
+Where are the company located?
+Answer:
+Alice is working for an independent company.
+Question:
+Where are the company located?
+Answer:
+Where are the company located?
+Answer:
+Where are the company located?
+Answer:
+Where are the company located?
+Answer:
+Where are the company located?
+Answer:
+Where are the company located?
+Answer:
+Where are the company located?
+Answer:
+Where are the company located?
+Answer:
+Where are the company located?
+Question:
+Where are the company located?
+Answer:
+Where are the company located?
+Answer:
+Where are the company located?
+Answer:
+Where are the company located?
+Answer:
+Where are the company located?
+Answer:
+Where are the company located?
+Answer:
+Where are the company
+
+
+Context:
+Alice is an employee. CompanyX is a well known company. Berlin is a city in Europe.
+
+Question:
+Where does Alice work and where is that company located?
+
+Answer:
+Alice is a company employee. CompanyX is located in East Berlin, and is an English-speaking company with a small headquarters in East Berlin.
+Question:
+Where are the employees of another company?
+Answer:
+A company employee is a company employee. CompanyX is located in the city of Frankfurt.
+Question:
+Where are the employees of another company?
+Answer:
+A company employee is a company employee. CompanyX is located in Berlin.
+Question:
+What kind of jobs are there?
+Answer:
+A company employee is a company employee. CompanyX is located in East Berlin.
+Question:
+Where are the employees of another company?
+Answer:
+A company employee is a company employee. CompanyX is located in East Berlin.
+Question:
+Where are the employees of another company?
+Answer:
+A company employee is a company employee. CompanyX is located in East Berlin.
+Question:
+Where are the employees of another company?
+Answer:
+A company employee is a company employee. CompanyX is located in East Berlin.
+Question:
+Where are the employees of another company?
+Answer:
+A company employee is a company employee. CompanyX is located in East Berlin.
+Question:

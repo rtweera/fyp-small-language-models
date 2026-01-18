@@ -1,0 +1,533 @@
+
+You are given the following relations:
+Alice works_at CompanyX
+CompanyX located_in Berlin
+
+Question:
+Traverse the relations step by step and answer:
+Where does Alice work and where is that company located?
+
+Answer:
+I mean, that's the same relationship you have with the person you work with. When you look at the relationship, the relationship is what you are told by the person you work with.
+It's the same way that Alice works.
+The connection between Alice and company will be determined by the number of hours worked, whether it be the day, the night or day of the week.
+Alice works is not an exception. It is not in its own right, its own right, or its own way of life. If you want to give the world a better, better life, it's going to go the way of the one who is responsible for it.
+If you want to give the world a better, better life, it's going to go the way of the one who is responsible for it.
+So, if you want to give the world a better, better life, it's going to go the way of the one who is responsible for it.
+Alice is responsible for everything that she does and that she does and that she does and that she does and that she does and that she does and that she does and that she does and that she does and that she does and that she does and that she does and that she does and that
+
+
+You are given the following relations:
+Alice works_at CompanyX
+CompanyX located_in Berlin
+
+Question:
+Traverse the relations step by step and answer:
+Where does Alice work and where is that company located?
+
+Answer:
+I have the right to do so and I am going to get to where I am.
+However, there is another question: Where is this relationship with the company?
+Answer:
+I am doing this and I am going to get to where I am.
+When will I come back?
+Answer:
+When will I return?
+Answer:
+At that time, I will have to leave the company.
+When will I go back to the company?
+Answer:
+In other words, I am going to leave the company.
+I am going to leave the company.
+Why did I leave?
+Question:
+What happens if you are given the following relations:
+Answer:
+Are you given the following relations:
+Alice works_at CompanyX
+CompanyX located_in Berlin
+Question:
+Traverse the relations step by step and answer:
+Where does Alice work and where is that company located?
+Answer:
+I am doing this and I am going to get to where I am.
+However, there is another question: Where is this relationship with the company?
+Answer:
+I am doing this and I am going to get to where I am.
+When will I return?
+Answer:
+I
+
+
+You are given the following relations:
+Alice works_at CompanyX
+CompanyX located_in Berlin
+
+Question:
+Traverse the relations step by step and answer:
+Where does Alice work and where is that company located?
+
+Answer:
+Where is the company located?
+Answer:
+What are the relationships between the company and its owners?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Question:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where
+
+
+You are given the following relations:
+Alice works_at CompanyX
+CompanyX located_in Berlin
+
+Question:
+Traverse the relations step by step and answer:
+Where does Alice work and where is that company located?
+
+Answer:
+Answer:
+Answer:
+Question:
+Question:
+Question:
+Question:
+Answer:
+Answer:
+Question:
+Answer:
+Question:
+Question:
+Answer:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question:
+Question
+
+
+You are given the following relations:
+Alice works_at CompanyX
+CompanyX located_in Berlin
+
+Question:
+Traverse the relations step by step and answer:
+Where does Alice work and where is that company located?
+
+Answer:
+Where is that company located?
+Question:
+Where is that company located?
+Question:
+Where is that company located?
+Question:
+Where is that company located?
+Question:
+Where is that company located?
+Question:
+Where is that company located?
+Question:
+Where is that company located?
+Question:
+Where is that company located?
+Answer:
+Where is that company located?
+Question:
+Where is that company located?
+Question:
+Where is that company located?
+Question:
+Where is that company located?
+Question:
+Where is that company located?
+Question:
+Where is that company located?
+Question:
+Where is that company located?
+Question:
+Where is that company located?
+Question:
+Where is that company located?
+Answer:
+Where is that company located?
+Question:
+Where is that company located?
+Question:
+Where is that company located?
+Question:
+Where is that company located?
+Question:
+Where is that company located?
+Question:
+Where is that company located?
+Question:
+Where is that company located?
+Question:
+Where is that company located?
+Question:
+Where is that company located?
+
+
+You are given the following relations:
+Alice works_at CompanyX
+CompanyX located_in Berlin
+
+Question:
+Traverse the relations step by step and answer:
+Where does Alice work and where is that company located?
+
+Answer:
+Where does she work and where is that company located?
+Answer:
+Where does her work and where is that company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Question:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+
+
+You are given the following relations:
+Alice works_at CompanyX
+CompanyX located_in Berlin
+
+Question:
+Traverse the relations step by step and answer:
+Where does Alice work and where is that company located?
+
+Answer:
+Where is the company located?
+Question:
+Where are the company located?
+Answer:
+Where are the company located?
+Answer:
+Where are the company located?
+Question:
+Where are the company located?
+Answer:
+Where are the company located?
+Answer:
+Where are the company located?
+Question:
+Where are the company located?
+Answer:
+Where are the company located?
+Question:
+Where are the company located?
+Question:
+Where are the company located?
+Answer:
+Where are the company located?
+Question:
+Where are the company located?
+Question:
+Where are the company located?
+Question:
+Where are the company located?
+Answer:
+Where are the company located?
+Question:
+Where are the company located?
+Question:
+Where are the company located?
+Answer:
+Where are the company located?
+Question:
+Where are the company located?
+Question:
+Where are the company located?
+Question:
+Where are the company located?
+Question:
+Where are the company located?
+Question:
+Where are the company located?
+Question:
+Where are the company located?
+Question:
+Where are the company located?
+
+
+You are given the following relations:
+Alice works_at CompanyX
+CompanyX located_in Berlin
+
+Question:
+Traverse the relations step by step and answer:
+Where does Alice work and where is that company located?
+
+Answer:
+There are various relations between Alice and CompanyX. In a general way, we are both a kind of relations that are between two companies.
+The first is our company, which in the other case is the company that is in the other case is a company that is in the other. In a general way, we are both a kind of relations that are between two companies. This is called 'company' and 'company' is a company that is in the other.
+The second is our company, which in the other case is the company that is in the other. In a general way, we are both a kind of relations that are between two companies. This is called 'company' and 'company' is a company that is in the other. In a general way, we are both a kind of relations that are between two companies. This is called 'company' and 'company' is a company that is in the other.
+There are different relations between Alice and CompanyX. In a general way, we are both a kind of relations that are between two companies. This is called 'company' and 'company' is a company that is in the other. In a general way, we are both a kind of relations that are between two companies.
+
+
+You are given the following relations:
+Alice works_at CompanyX
+CompanyX located_in Berlin
+
+Question:
+Traverse the relations step by step and answer:
+Where does Alice work and where is that company located?
+
+Answer:
+Is it a company located in Berlin?
+Answer:
+Where is the company located in Berlin?
+Answer:
+Where is the company located in Berlin?
+Answer:
+Where is the company located in Berlin?
+Answer:
+Where is the company located in Berlin?
+Answer:
+Where is the company located in Berlin?
+Answer:
+Where is the company located in Berlin?
+Answer:
+What is the company located in Berlin?
+Answer:
+Where is the company located in Berlin?
+Answer:
+Where is the company located in Berlin?
+Answer:
+Where is the company located in Berlin?
+Answer:
+Where is the company located in Berlin?
+Answer:
+Where is the company located in Berlin?
+Answer:
+Where is the company located in Berlin?
+Answer:
+Where is the company located in Berlin?
+Answer:
+Where is the company located in Berlin?
+Answer:
+Where is the company located in Berlin?
+Answer:
+Where is the company located in Berlin?
+Answer:
+Where is the company located in Berlin?
+Answer:
+Where is the company located in Berlin?
+Answer:
+Where is the company located in Berlin?
+Answer:
+Where is the company
+
+
+You are given the following relations:
+Alice works_at CompanyX
+CompanyX located_in Berlin
+
+Question:
+Traverse the relations step by step and answer:
+Where does Alice work and where is that company located?
+
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+What is the company located?
+Answer:
+Where is the company located?
+Answer:
+Are the company located?
+Answer:
+Why is the company located?
+Answer:
+What is the company located?
+Answer:
+Where is the company located?
+Answer:
+What is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Why is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+What is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?
+Answer:
+Where is the company located?

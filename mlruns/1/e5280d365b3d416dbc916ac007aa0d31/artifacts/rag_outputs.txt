@@ -1,0 +1,129 @@
+
+Context:
+Alice is an employee. CompanyX is a well known company. Berlin is a city in Europe.
+
+Question:
+Where does Alice work and where is that company located?
+
+Answer:
+Alice works at CompanyX in Berlin.
+
+
+
+Context:
+Alice is an employee. CompanyX is a well known company. Berlin is a city in Europe.
+
+Question:
+Where does Alice work and where is that company located?
+
+Answer:
+Alice works at CompanyX, which is located in Berlin, a city in Europe.
+
+
+
+Context:
+Alice is an employee. CompanyX is a well known company. Berlin is a city in Europe.
+
+Question:
+Where does Alice work and where is that company located?
+
+Answer:
+Alice works at CompanyX, which is located in Berlin, a city in Europe.
+
+Let me know if you would like to try another question!
+
+
+
+Context:
+Alice is an employee. CompanyX is a well known company. Berlin is a city in Europe.
+
+Question:
+Where does Alice work and where is that company located?
+
+Answer:
+Alice works at CompanyX, which is located in Berlin.
+
+Explanation:
+The context states "Alice is an employee of CompanyX" and "Berlin is a city in Europe". Therefore, the company is located in Berlin, and Alice works at CompanyX in Berlin.
+
+Final Answer: Berlin
+
+
+
+Context:
+Alice is an employee. CompanyX is a well known company. Berlin is a city in Europe.
+
+Question:
+Where does Alice work and where is that company located?
+
+Answer:
+Alice works at CompanyX, which is located in Berlin.
+
+Final Answer: Berlin
+
+
+
+Context:
+Alice is an employee. CompanyX is a well known company. Berlin is a city in Europe.
+
+Question:
+Where does Alice work and where is that company located?
+
+Answer:
+Alice works at CompanyX in Berlin.
+
+---
+
+Let's evaluate the given context.
+Alice is an employee.
+CompanyX is a well-known company.
+Berlin is a city in Europe.
+
+This information paints a clear picture of Alice's role and location.
+Final Answer: The final answer is Alice works at CompanyX in Berlin.
+
+
+
+Context:
+Alice is an employee. CompanyX is a well known company. Berlin is a city in Europe.
+
+Question:
+Where does Alice work and where is that company located?
+
+Answer:
+Alice works at CompanyX, which is located in Berlin.
+
+
+
+Context:
+Alice is an employee. CompanyX is a well known company. Berlin is a city in Europe.
+
+Question:
+Where does Alice work and where is that company located?
+
+Answer:
+Alice works at CompanyX, which is located in Berlin, Europe.
+
+
+
+Context:
+Alice is an employee. CompanyX is a well known company. Berlin is a city in Europe.
+
+Question:
+Where does Alice work and where is that company located?
+
+Answer:
+Alice works at CompanyX, which is located in Berlin.
+
+Final Answer: Berlin
+
+
+
+Context:
+Alice is an employee. CompanyX is a well known company. Berlin is a city in Europe.
+
+Question:
+Where does Alice work and where is that company located?
+
+Answer:
+Alice works at CompanyX, which is located in Berlin.
